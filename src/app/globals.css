@@ -1,0 +1,9 @@
+:root {
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+  background-color: #ffffff;
+}
